@@ -1,0 +1,6 @@
+print ('Hello!')
+text = input ('')
+print ("It's nice to meet you")
+print ('Whats your name??')
+name = input ('')
+print ('nice to meet you', name,)
